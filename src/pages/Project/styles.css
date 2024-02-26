@@ -1,0 +1,47 @@
+/* styles.css */
+
+.buttonPrimary {
+    background-color: #2E3646;
+    color:white;
+  }
+  
+  .buttonPrimary:hover {
+    background-color: #1e2431;
+  }
+  
+  .buttonSecondary {
+    color: #2E3646;
+  }
+  
+  .buttonSecondary:hover {
+    color: #1e2431;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-top: 20px;
+  }
+  
+  .headerTitle {
+    margin: 0;
+  }
+  
+  .headerButton {
+    padding: 0.5rem;
+  }
+  
+  .deleteIcon {
+    color: #5F6D7E;
+  }
+  
+  .invalidIcon {
+    color: #BB2124;
+  }
+  
+  .validIcon {
+    color: #22BB33;
+  }
+  
